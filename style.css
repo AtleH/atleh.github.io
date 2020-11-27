@@ -1,0 +1,12 @@
+/* Styles go here */
+
+html, body {
+    height: 90%;
+  }
+  
+.container {
+    font-size: 25.5vw;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+}
