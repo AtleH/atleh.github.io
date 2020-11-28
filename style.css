@@ -10,3 +10,9 @@ html, body {
     display: flex;
     justify-content: center;
 }
+
+.clickable {
+    cursor: pointer;
+    margin: 10px;
+    background: lightgrey;
+}
