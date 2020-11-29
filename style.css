@@ -19,18 +19,19 @@ html, body {
 .prevnext {
     cursor: pointer;
     padding: 10px;
-    color: darkgrey;
+    color: rgb(120, 186, 244);
 }
 
 .hatch {
     cursor: pointer;
     padding: 10px;
-    border: 20px solid rgb(120, 175, 244);
+    border: 20px solid rgb(120, 186, 244);
     background-color: white;
 }
 
 #image {
     width: 100%;
+    max-width: 900px;
     height: auto;
 }
 
@@ -39,8 +40,9 @@ ol {
 }
 
 #caption {
-    font-size: 8vw;
+    font-size: min(8vw, 80px);
 }
+
 .qtext {
-    font-size: 5vw;
+    font-size: min(5vw, 50px);
 }
