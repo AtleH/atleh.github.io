@@ -5,14 +5,42 @@ html, body {
   }
   
 .container {
-    font-size: 30vw;
+    font-size: 40vw;
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
     justify-content: center;
+    margin-top: 50px;
 }
 
-.clickable {
+.frontpage {
+    background-image: url('img/background.gif');
+}
+
+.prevnext {
     cursor: pointer;
-    margin: 10px;
-    background: lightgrey;
+    padding: 10px;
+    color: darkgrey;
+}
+
+.hatch {
+    cursor: pointer;
+    padding: 10px;
+    border: 20px solid rgb(120, 175, 244);
+    background-color: white;
+}
+
+#image {
+    width: 100%;
+    height: auto;
+}
+
+ol {
+    padding-left: 5vw;
+}
+
+#caption {
+    font-size: 8vw;
+}
+.qtext {
+    font-size: 5vw;
 }

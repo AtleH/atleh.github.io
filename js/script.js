@@ -31,6 +31,8 @@ function nextDay() {
 
 function openHatch() {
     console.log("open hatch");
+    var hatch = getHatchNumber();
+    window.open('day.html?day=' + hatch, '_self');
 }
 
 function onLoad(e) {
@@ -42,7 +44,7 @@ function onLoad(e) {
     var hatch = document.getElementById("hatch");
     setHatchNumber(day);
     hatch.innerHTML = day;
-    hatch.onclick = (e) => {console.log("open");}
+    hatch.onclick = openHatch;
     document.getElementById("prev").onclick = prevDay;
     document.getElementById("next").onclick = nextDay;
     document.getElementById("hatch").onclick = openHatch;
