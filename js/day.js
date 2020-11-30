@@ -35,7 +35,7 @@ var content = [
     { // 1
         q1: 'Hyttetur i januar. Hvilken rase er hundene til Ingeborg og Toralf?',
         q2: 'Apropos hunder - Hvilken rase er hunden til kronprinsparet?',
-        q3: 'Hvilken rase er hundene til Trine m/fam?'
+        q3: 'Hvilken rase er hunden til Trine m/fam?'
     },
     { // 2
         q1: 'Handball-EM i Trondheim tidlig i januar. Hvilke kamper såg vi?',
@@ -68,7 +68,7 @@ var content = [
         q3: 'Bestemor døde våren 2012 - hvor gammel ble hun?'
     },
     { // 8
-        q1: 'Anne og Atle hadde en dramatisk fjelltur påska 2017, Hvilken hytte er dette?',
+        q1: 'Anne og Atle hadde en dramatisk fjelltur påska 2017. Hvilken hytte er dette?',
         q2: 'Hva heter toppen nær denne hytta der Atle og Anne var 17. mai samme år?',
         q3: 'Anne og Atle var også på topptur sommeren 2018 i et fantastisk vær (et annet fjellområde) - hvilken topp var de på da?'
     },
@@ -93,7 +93,7 @@ var content = [
         q3: 'Når er St.Hans-aften?'
     },
     { // 13
-        q1: 'Juli og to uker på hytta - Hvor er dette fine bildet av Demi tatt?',
+        q1: 'Juli og to uker på hytta - hvor er dette fine bildet av Demi tatt?',
         q2: 'Hvor mange ørret fikk vi til sammen de to ukene (+-3)?',
         q3: 'Hva er det offisielle fulle navnet på koronaviruset?'
     },
@@ -120,10 +120,10 @@ var content = [
     { // 18
         q1: 'Ingrid og Demi på tur i september - hvor er bildet tatt?',
         q2: 'Nevn navnet på minst fem tjønner/vatn i Malvik-marka - utenom Stavsjøen.',
-        q3: 'Hva heter berget der Sveberg skole hadde rasten sin på den tradisjonelle turen fra Bakken til Sveberg skole??'
+        q3: 'Hva heter berget der Sveberg skole hadde rasten sin på den tradisjonelle turen fra Bakken til Sveberg skole?'
     },
     { // 19
-        q1: 'Ingrid og Demi på tur også i oktober - hvor er Demi her??',
+        q1: 'Ingrid og Demi på tur også i oktober - hvor er Demi her?',
         q2: 'Nevn tre hytter i Bymarka med servering?',
         q3: 'Hva heter den nye hesten til Ida? '
     },
@@ -143,12 +143,12 @@ var content = [
         q3: 'Hva het nordmannen som ble dømt for og fengslet for spionasje mot Russland? Han ble benådet i november i 2019. '
     },
     { // 23
-        q1: 'Desember-bildet nr 1 er fra jula 2007 - hvilken begivenhet er dette?',
+        q1: 'Desember-bilde nr 1 er fra jula 2007 - hvilken begivenhet er dette?',
         q2: 'Tre flotte unge damer - Ingeborg i midten, men hvem er de to andre?',
-        q3: 'Audhild, Sølvi og Jon?'
+        q3: 'Hva heter søsknene til Sveinung?'
     },
     { // 24
-        q1: 'Julaften på Brundalen - som et apropos til desember og jul - Vi flyttet hit til Smiskaret 11 like før jul - men hvilket år var det?',
+        q1: 'Julaften på Brundalen - som et apropos til desember og jul. Vi flyttet hit til Smiskaret 11 like før jul - men hvilket år var det?',
         q2: 'Hvem spiller statsminister David i Love Actually?',
         q3: 'En annen film som ofte har gått i jula, er Flåklypa Grand Prix - hva heter moldvarp-/piggsvinfiguren som synes alt er "fali"?'
     },
