@@ -33,123 +33,123 @@ function getQueryVariable(variable) {
 
 var content = [
     { // 1
-        q1: 'Hyttetur i januar. Hvilken rase er hundene til Ingeborg og Toralf?',
-        q2: 'Apropos hunder - Hvilken rase er hunden til kronprinsparet?',
-        q3: 'Hvilken rase er hunden til Trine m/fam?'
+        q1: 'Fest i familien. Men hvilken anledning er dette?',
+        q2: 'Hvem laga marsipankaka?',
+        q3: 'Hvem hjalp til på kjøkkenet'
     },
     { // 2
-        q1: 'Handball-EM i Trondheim tidlig i januar. Hvilke kamper såg vi?',
-        q2: 'Apropos handball-EM - hvilken plass endte Norge på?',
-        q3: 'Hva heter Trondheims store handball-sønn?'
+        q1: 'Anne har vært på en del fotballturer - både i Norge og utlandet. Men hvor er dette?',
+        q2: 'Med hvilket lag?',
+        q3: 'Hva var hovedfargene på fotballdrakten til Augsburg-jentene?'
     },
     { // 3
-        q1: 'Bursdag Atle, 3. februar. Hvor feiret vi den (begge stedene)?',
-        q2: 'Hvor gammel ble Martine 7. februar?',
-        q3: 'Når har Kongen bursdag?'
+        q1: 'Atle på tur alene uten damene sine, hvor er han her?',
+        q2: 'Og hvem er han sammen med - altså ikke hesten, men resten av gjengen som ikke er med på bildet?',
+        q3: 'Hva heter kirka her (som er litt viktig for Atle og Ingrid)?'
     },
     { // 4
-        q1: 'Anne brakk et bein i tommelen på ei fotballtrening i februar. Hva kalles bein i fingrene på fagspråket?',
-        q2: 'Apropos Anne og fotball - nevn minst fem klubber som fotball-nomaden Anne har spilt på.',
-        q3: 'Hva heter Rosenborgs svenske spiss (han som kom i vår)?'
+        q1: 'Ny fest i familien - hvilken anledning?',
+        q2: 'Hvem hjalp til på kjøkkenet ved denne festen?',
+        q3: 'A propos fest - hva slags bunad har damene på Reistad?'
     },
     { // 5
-        q1: 'Damene på Word Cup i Skiskyting i mars 2009. Hvilket stort mesterskap skal Trondheim arrangere i 2025?',
-        q2: 'Vi såg Jesus Christ Superstar på teatret i mars. Hvem spilte Jesus?',
-        q3: 'Hvem har skrevet "Fruen fra havet"?'
+        q1: 'Enda en familiefest - men hva eller hvem feirer vi her?',
+        q2: 'Anne med gitar i bakgrunnen - hva heter gitarlæreren hennes som fikk trillinger?',
+        q3: 'med en skuespiller på Trøndelag Teater som heter?'
     },
     { // 6
-        q1: 'Tur på hytta i mars i år (like før Norge stengte). Hvor er Atle og Demi her?',
-        q2: 'Hva heter de to første hyttene på Norge på tvers-ruta fra Stjørdal? (Atle og Anne har overnatta på den første, vi har alle vært innom (eller i alle fall i nærheten av) den andre.)',
-        q3: 'Hva heter de tre hyttene som er en del av Trekanten i Trollheimen?'
+        q1: 'Ingrid har også vært alene på tur. Hvor er hun her?',
+        q2: 'Hvem har laget "Nesevise" - siden Ingrids tur(er) gjaldt nesen?  ',
+        q3: 'Hvem har en nese som vokser når han lyver?'
     },
     { // 7
-        q1: 'Påske på hytta i april 2012 - Hva gjør vi her?',
-        q2: 'Dette var siste påska med Fia - hvor gammel var hun da hun døde?',
-        q3: 'Bestemor døde våren 2012 - hvor gammel ble hun?'
+        q1: 'Hvor er Anne her?',
+        q2: 'Hvorfor er hun her?',
+        q3: 'Ikke helt det samme kanskje - men hva heter Norges store stjerne på 400 m hekk?'
     },
     { // 8
-        q1: 'Anne og Atle hadde en dramatisk fjelltur påska 2017. Hvilken hytte er dette?',
-        q2: 'Hva heter toppen nær denne hytta der Atle og Anne var 17. mai samme år?',
-        q3: 'Anne og Atle var også på topptur sommeren 2018 i et fantastisk vær (et annet fjellområde) - hvilken topp var de på da?'
+        q1: 'Anne var på tur igjen våren 2013, men ikke fotball denne gangen. Hvor var hun da?',
+        q2: 'Hvorfor var hun på tur?',
+        q3: 'Hvor er bildet tatt (altså hvilken by er dette)?'
     },
     { // 9
-        q1: 'Ingrid feiret 60 årsdag i mai 2015. May Trude og Ingrid Våge har også bursdager i mai - hvilke datoer er det?',
-        q2: 'Apropos Ingrid Våge - hva heter de to søstrene og broren hennes?',
-        q3: 'Hvorfor er 8. mai flaggdag i Norge?'
+        q1: 'Ingeborg var på flere turer i 2010. Dette er fra vårturen. Hvor er dette bildet tatt?',
+        q2: 'Hva slags dag er forbundet med bl.a. denne kirkegården?',
+        q3: 'Når var denne dagen?'
     },
     { // 10
-        q1: '17. mai 2010 hadde vi fam Haugan-Hove på besøk. Hva heter Bernt Erlend til etternavn?',
-        q2: 'Apropos etternavn - hva heter Jeanette til etternavn?',
-        q3: 'Enda et apropos etternavn - enn Johan?'
+        q1: 'Atle og Ingrid var på tur i 2015. Hvor?',
+        q2: 'Hvor er dette bildet tatt?',
+        q3: 'Har Atle og Ingrid vært på tur sammen utenom Europa, viss ja - hvor?'
     },
     { // 11
-        q1: 'Ingrid og Atle feiret 30 års bryllupsdag 16. juni i år. Hva kalles 30 års bryllupsdag?',
-        q2: 'Hvor lenge må man ha vært gift for å feire gullbryllup?',
-        q3: 'Hvor feiret May Trude og Paul bryllupet sitt i 2008?'
+        q1: 'Anne hadde besøk av ei jente fra Frankrike mens hun gikk på ungdomskola. Hva het hun?',
+        q2: 'Hvor er bildet tatt?',
+        q3: 'Hvor mange ganger har Ingeborg og Anne vært i Frankrike?'
     },
     { // 12
-        q1: 'Familietur i Bymarka i juni - hvor tok vi rasten?',
-        q2: 'Vi hadde også en flott topptur i Bymarka ei uke tidligere - hvor var vi da?',
-        q3: 'Når er St.Hans-aften?'
+        q1: 'Nytt familieselskap - men hva eller hvem feirer vi her?',
+        q2: 'Blant gjestene er Marit og Inge - hva heter dattera deres?',
+        q3: 'Anne er fotograf, men hvor er Ingeborg?'
     },
     { // 13
-        q1: 'Juli og to uker på hytta - hvor er dette fine bildet av Demi tatt?',
-        q2: 'Hvor mange ørret fikk vi til sammen de to ukene (+-3)?',
-        q3: 'Hva er det offisielle fulle navnet på koronaviruset?'
+        q1: 'Dette er fra den siste utenlandsturen vi var på sammen. I hvilket land var vi?',
+        q2: 'Hva het byen?',
+        q3: 'Vi var i det samme landet en gang tidligere også, hvor var vi da?'
     },
     { // 14
-        q1: 'Atle, Demi og Ingrid på fjelltur i Trollheimen i slutten av juli - hvilke hytter bodde de på?',
-        q2: 'Grete og Olav Terje har hytte i Trollheimen. Hva heter elva som ligger nær hytta (både navnet på ei turistforeningshytte, parkeringa og elva har navn med samme utgangspunkt)?',
-        q3: 'Hvor foregår "Spelet om Heilag Olav"?'
+        q1: 'Dette er fra den andre turen Ingeborg var på i 2010 - hvor var hun da (to byer)?',
+        q2: 'Hvor er bildet tatt?',
+        q3: 'Hva heter hovedstaden i Tjekkia?'
     },
     { // 15
-        q1: 'Ingeborg feiret dagen sin 3. august og var den eneste i familien som hadde gjester utenom oss selv. Hvem feiret hun sammen med på dagen?',
-        q2: 'Joar har også geburtsdag i august - hvor gammel ble han 8. august 2020?',
-        q3: 'Hvorfor ble 27 ungdommer innlagt på sykehus etter en ulovlig grottefest ved St.Hanshaugen i Oslo?'
+        q1: 'Ingeborg hadde fransk gjenvisitt - to trivelige gutter. Hva het de?',
+        q2: 'Hvor kom de fra - sånn ca?',
+        q3: 'De skulle egentlig ha kommet tidligere, men turen måtte forskyves. Hvorfor?'
     },
     { // 16
-        q1: 'Sommeren 2012 var vi på den foreløpig siste utenlandsturen sammen alle fire - hvor var vi da (land og sted)?',
-        q2: 'Hvor er bildet tatt (by og land)?',
-        q3: 'Hva het landet som begge disse landene var en del av før krigene på slutten av 80- og begynnelsen av 90-tallet?'
+        q1: 'Her er det litt kaotisk i Smiskaret 11, med oppussing av kjøkken. Når gjorde vi det?',
+        q2: 'Ingeborg var ikke hjemme da - hvor var hun?',
+        q3: 'Når ble huset her i Smiskaret 11 bygd?'
     },
     { // 17
-        q1: 'Hvor feiret Anne dagen sin 26. september?',
-        q2: 'Åsta og Helge har også bursdag i september - hvor gamle ble de 8. september 2020?',
-        q3: 'Hvem ble ny leder i Venstre etter Trine Skei Grande?'
+        q1: 'Nå blir det litt dyreliv - dette er Fia som var en flatcoated retriver. Men hvilke hunder har Astrid og Olaf?',
+        q2: 'Hva heter hunderasen som holder til på Reistad nå?',
+        q3: 'Hva slags hunderase hadde May Trude da hun kom til Reistad og som de også hadde før de fikk småhundene?'
     },
     { // 18
-        q1: 'Ingrid og Demi på tur i september - hvor er bildet tatt?',
-        q2: 'Nevn navnet på minst fem tjønner/vatn i Malvik-marka - utenom Stavsjøen.',
-        q3: 'Hva heter berget der Sveberg skole hadde rasten sin på den tradisjonelle turen fra Bakken til Sveberg skole?'
+        q1: 'Her er Demi som hadde en eier før oss. Hva het hun?',
+        q2: 'Nina og Rune har hatt flere hunder av samme rase. Hvilken?',
+        q3: 'Hva heter hunden til Gunn Berit'
     },
     { // 19
-        q1: 'Ingrid og Demi på tur også i oktober - hvor er Demi her?',
-        q2: 'Nevn tre hytter i Bymarka med servering?',
-        q3: 'Hva heter den nye hesten til Ida? '
+        q1: 'Friken var mye på tur vår/sommer 2017. Nevn tre staller/steder han var da',
+        q2: 'Nevn tre staller/rideskoler der Ingeborg har ridd eller hatt hest',
+        q3: 'Hva het hun som Ingeborg kjøpte Friken fra?'
     },
     { // 20
-        q1: 'I 2009 var vi på utenlandstur i høstferien - hvor (ei øy i Hellas)?',
-        q2: 'I sommerferien samme år var vi på Vestlandsturné og besøkte (kjørte i det minste gjennom) tre byer i det som da het Sogn og Fjordane og minst fire i Møre og Romsdal- nevn minst 3 av disse? ',
-        q3: 'Sogn og Fjordane og Hordaland ble slått sammen til et fylke 1.1.2020, hva heter det?'
+        q1: 'Sannelig er Anne på enda en fotballtur - hvor er dette?',
+        q2: 'Hvilket lag er hun med her? ',
+        q3: 'Hvem ble seriemester i fotball for damer i 2021?'
     },
     { // 21
-        q1: 'Bakedag for Liv og Ingrid i Langrennshalla i slutten av november - hva heter konfektkaka som de bruker å bake?',
-        q2: 'Noe helt annet - men det har litt med Liv & fam å gjøre - nevn målet/sted for minst tre av sykkelturene våre (men gjerne alle)?',
-        q3: 'Når vi først snakker om sykkel, hva het syklisten som Ingeborg og Anne laget plakat for da vi var i Frankrike og overvar en etappe av Tour de France?'
+        q1: 'Så er Ingeborg på Øvrevoll igjen. Men når var det?',
+        q2: 'I hvilken kommune ligger Øvrevoll?',
+        q3: 'og i hvilket fylke?'
     },
     { // 22
-        q1: 'Siden november er en dårlig måned for spennende bilder, har vi her noe helt annet. Hvor er vi - først og fremst land, men gjerne også sted?',
-        q2: 'Hva heter hunden?',
-        q3: 'Hva het nordmannen som ble dømt for og fengslet for spionasje mot Russland? Han ble benådet i november i 2019. '
+        q1: 'Her feirer vi også et jubileum, men hvilket?',
+        q2: 'Når vi snakker om jubileum - når feiret Trondheim 1000 årsjubileet sitt?',
+        q3: 'Hvem står på sokkel på torget i Trondheim?'
     },
     { // 23
-        q1: 'Desember-bilde nr 1 er fra jula 2007 - hvilken begivenhet er dette?',
-        q2: 'Tre flotte unge damer - Ingeborg i midten, men hvem er de to andre?',
-        q3: 'Hva heter søsknene til Sveinung?'
+        q1: 'UKM - både Ingeborg og Anne har deltatt. Her spiller Anne i band, men hvilket instrument spiller hun?',
+        q2: 'Anne deltok også noen år senere, men da alene. Hvilken låt deltok hun med da?',
+        q3: 'Hva deltok Ingeborg med?'
     },
     { // 24
-        q1: 'Julaften på Brundalen - som et apropos til desember og jul. Vi flyttet hit til Smiskaret 11 like før jul - men hvilket år var det?',
-        q2: 'Hvem spiller statsminister David i Love Actually?',
-        q3: 'En annen film som ofte har gått i jula, er Flåklypa Grand Prix - hva heter moldvarp-/piggsvinfiguren som synes alt er "fali"?'
-    },
+        q1: 'Julestemning - Atle og Ingrid var i London og opplevde at julegrana ble tent. Hvor står den og hva er spesielt med den for en nordmann?',
+        q2: 'Vi var også i London på en norsk festdag for noen år siden - hvilken?',
+        q3: 'Da var det samtidig en britisk festdag - hvilken?'
+    },   
 ];
