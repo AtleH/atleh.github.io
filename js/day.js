@@ -33,123 +33,123 @@ function getQueryVariable(variable) {
 
 var content = [
     { // 1
-        q1: 'Fest i familien. Men hvilken anledning er dette?',
-        q2: 'Hvem laga marsipankaka?',
-        q3: 'Hvem hjalp til på kjøkkenet'
+        q1: 'I år blir det spørsmål knyttet til bilder fra 2022 – to per måned. Her er Atle og de unge Byåsendamene på kveldsskitur i januar. Hvor gikk turen?',
+        q2: 'Nevn tre topper i Bymarka med «heia» i navnet.',
+        q3: 'Hva heter vannet ved Grønlia?'
     },
     { // 2
-        q1: 'Anne har vært på en del fotballturer - både i Norge og utlandet. Men hvor er dette?',
-        q2: 'Med hvilket lag?',
-        q3: 'Hva var hovedfargene på fotballdrakten til Augsburg-jentene?'
+        q1: 'Atle og Demi på en av de mange skiturene sine. Når ble Demi født?',
+        q2: 'Hun er en korthåret vorstehhund, tilhører FCI-gruppe 7 som har navnet?',
+        q3: 'Puddel tilhører FCI-gruppe 9, hva kalles den gruppen?'
     },
     { // 3
-        q1: 'Atle på tur alene uten damene sine, hvor er han her?',
-        q2: 'Og hvem er han sammen med - altså ikke hesten, men resten av gjengen som ikke er med på bildet?',
-        q3: 'Hva heter kirka her (som er litt viktig for Atle og Ingrid)?'
+        q1: 'Her er Ingeborg, Atle og Demi (og Ingrid) på bursdagstur i Bymarka (3. februar). Men hvor er bildet tatt?',
+        q2: 'Siden bildet er tatt på ei bru, er det naturlig å spørre om navn på elver/bekker i Bymarka. Nevn to.',
+        q3: 'Hvor får Trondheim og Malvik kommuner drikkevannet fra?'
     },
     { // 4
-        q1: 'Ny fest i familien - hvilken anledning?',
-        q2: 'Hvem hjalp til på kjøkkenet ved denne festen?',
-        q3: 'A propos fest - hva slags bunad har damene på Reistad?'
+        q1: 'Demi og Ingrid på tur i snøen i februar. Hvor er bildet tatt?',
+        q2: '9. februar var en stor dag. Hva skjedde da?',
+        q3: 'OL ble arrangert i februar – hvor?'
     },
     { // 5
-        q1: 'Enda en familiefest - men hva eller hvem feirer vi her?',
-        q2: 'Anne med gitar i bakgrunnen - hva heter gitarlæreren hennes som fikk trillinger?',
-        q3: 'med en skuespiller på Trøndelag Teater som heter?'
+        q1: 'I mars fikk Ingeborg endelig ri på Friken igjen. Hva er Frikens fulle navn?',
+        q2: 'Friken er en islandshest og er av samme opprinnelse som de fire norske hesterasene. Nevn to av dem.',
+        q3: 'Ei av døtrene til Märtha Louise driver med sprang på ganske høyt nivå. Hvem?'
     },
     { // 6
-        q1: 'Ingrid har også vært alene på tur. Hvor er hun her?',
-        q2: 'Hvem har laget "Nesevise" - siden Ingrids tur(er) gjaldt nesen?  ',
-        q3: 'Hvem har en nese som vokser når han lyver?'
+        q1: 'I mars var Atle, Demi og Ingrid ei helg på Bjørneggen. a) I hvilken kommune ligger Bjørneggen?',
+        q2: 'Nevn tre TT-hytter i Sylan.',
+        q3: 'Hva heter det høyeste fjellet i Sylan?'
     },
     { // 7
-        q1: 'Hvor er Anne her?',
-        q2: 'Hvorfor er hun her?',
-        q3: 'Ikke helt det samme kanskje - men hva heter Norges store stjerne på 400 m hekk?'
+        q1: 'Damene i påskesol utenfor hytta. a) Standardspørsmål: Når er 1. påskedag? «Første søndag........» ',
+        q2: 'Som kjent ligger hytta vår ved Børsjøen. Men det er flere vann i området rundt. Nevn tre.',
+        q3: 'Hva heter det høyeste fjellet i Selbu?'
     },
     { // 8
-        q1: 'Anne var på tur igjen våren 2013, men ikke fotball denne gangen. Hvor var hun da?',
-        q2: 'Hvorfor var hun på tur?',
-        q3: 'Hvor er bildet tatt (altså hvilken by er dette)?'
+        q1: 'Lørdag etter påske var Atle på tur sammen med Liv, Sveinung og Helge. Hva var anledningen?',
+        q2: 'Hvor ca var de? Fjellområdet holder.',
+        q3: 'Hva heter veien gjennom det fjellområdet?'
     },
     { // 9
-        q1: 'Ingeborg var på flere turer i 2010. Dette er fra vårturen. Hvor er dette bildet tatt?',
-        q2: 'Hva slags dag er forbundet med bl.a. denne kirkegården?',
-        q3: 'Når var denne dagen?'
+        q1: 'Tradisjonell 17. mai-tur i marka. Husker dere hvor turen gikk?',
+        q2: 'Mai har ofte mange fri- og/eller helligdager. Når er Kr. Himmelfartsdag i forhold til 1. påskedag?',
+        q3: 'Hvorfor var 17. mai-feiringa i 2014 spesiell?'
     },
     { // 10
-        q1: 'Atle og Ingrid var på tur i 2015. Hvor?',
-        q2: 'Hvor er dette bildet tatt?',
-        q3: 'Har Atle og Ingrid vært på tur sammen utenom Europa, viss ja - hvor?'
+        q1: 'Atle, Ingrid og Demi var på besøk i Hafslo i slutten av mai. Marit og Bernt Erlend har flytta til Hafslo. Hvor jobber Marit?',
+        q2: 'Hva heter toppen i nærheten av Hafslo på 808 moh som vi har vært oppe på flere ganger?',
+        q3: 'Norges største isbre ligger bl.a. i Luster kommune. Hva heter den? '
     },
     { // 11
-        q1: 'Anne hadde besøk av ei jente fra Frankrike mens hun gikk på ungdomskola. Hva het hun?',
-        q2: 'Hvor er bildet tatt?',
-        q3: 'Hvor mange ganger har Ingeborg og Anne vært i Frankrike?'
+        q1: 'Billie er på besøk i Smiskaret for første gang – trur eg:) Hva er spesielt med pelsen til en puddel i forhold til f.eks. Demi og Fia?',
+        q2: 'Hva heter hunden til Obelix?',
+        q3: 'Enn hunden til Pondus?'
     },
     { // 12
-        q1: 'Nytt familieselskap - men hva eller hvem feirer vi her?',
-        q2: 'Blant gjestene er Marit og Inge - hva heter dattera deres?',
-        q3: 'Anne er fotograf, men hvor er Ingeborg?'
+        q1: 'Dårlig med passende bilder i juni, så da blir det et av Friken som hadde bursdag i mai. Hvor gammel ble han?',
+        q2: 'Hva het hesten til Odin?',
+        q3: 'Og hva var spesielt med han? ?'
     },
     { // 13
-        q1: 'Dette er fra den siste utenlandsturen vi var på sammen. I hvilket land var vi?',
-        q2: 'Hva het byen?',
-        q3: 'Vi var i det samme landet en gang tidligere også, hvor var vi da?'
+        q1: 'Børsjøen i juli, regn og surt, men tur ble det likevel. Hvor er bildet tatt?',
+        q2: 'Hva heter parkeringsplassen ved enden av Børdalsveien?',
+        q3: 'Hva heter hyttene som inngår i Norge på tvers (ser bort fra ev overnatting i Stjørdal)?'
     },
     { // 14
-        q1: 'Dette er fra den andre turen Ingeborg var på i 2010 - hvor var hun da (to byer)?',
-        q2: 'Hvor er bildet tatt?',
-        q3: 'Hva heter hovedstaden i Tjekkia?'
+        q1: 'Dette er Ingeborg og Atle ved Schulzhytta på turen de hadde i sommer. Jeg har allerede spurt mye om Sylan, så nå flytter jeg til andre fjell. Vi har jo vært på mange fjellturer og overnatta på mange hytter. Men hva het hytta som ligger på en bre?',
+        q2: 'I hvilket fjellområde ligger Dørålglupen?',
+        q3: 'Hva heter Norges høyeste fjell?'
     },
     { // 15
-        q1: 'Ingeborg hadde fransk gjenvisitt - to trivelige gutter. Hva het de?',
-        q2: 'Hvor kom de fra - sånn ca?',
-        q3: 'De skulle egentlig ha kommet tidligere, men turen måtte forskyves. Hvorfor?'
+        q1: 'Ingeborg feirer 30 årsdag. Der debuterte Else som gjest i familieselskap i Smiskaret. Når ble hun født?',
+        q2: 'Hvilket stjernetegn blir det?',
+        q3: 'Hvilket stjernetegn har Åsta, Helge og Andrea?'
     },
     { // 16
-        q1: 'Her er det litt kaotisk i Smiskaret 11, med oppussing av kjøkken. Når gjorde vi det?',
-        q2: 'Ingeborg var ikke hjemme da - hvor var hun?',
-        q3: 'Når ble huset her i Smiskaret 11 bygd?'
+        q1: 'Ingrid tar en velfortjent (?) pust i bakken og en kanelsnurr. Atle og Demi er også med på turen. Hvor er dette?',
+        q2: 'Hva heter bergnabben i Estenstadmarka som minner om Trolltunga?',
+        q3: 'Og når vi er inne på berømte fjellformasjoner, hva heter Sunndalens svar på Prekestolen?'
     },
     { // 17
-        q1: 'Nå blir det litt dyreliv - dette er Fia som var en flatcoated retriver. Men hvilke hunder har Astrid og Olaf?',
-        q2: 'Hva heter hunderasen som holder til på Reistad nå?',
-        q3: 'Hva slags hunderase hadde May Trude da hun kom til Reistad og som de også hadde før de fikk småhundene?'
+        q1: 'Atle og Ingrid var ei uke på ei gresk øy i september. Hva het den?',
+        q2: 'Nevn to greske øyer der hele familien har feriert.',
+        q3: 'Hva heter øya i Egeerhavet som er delt mellom Hellas og Tyrkia?'
     },
     { // 18
-        q1: 'Her er Demi som hadde en eier før oss. Hva het hun?',
-        q2: 'Nina og Rune har hatt flere hunder av samme rase. Hvilken?',
-        q3: 'Hva heter hunden til Gunn Berit'
+        q1: 'Her feirer vi bursdagen til Anne (hos Ingeborg). Ingrid kom heim fra Hellas søndag og for videre på hyttetur tirsdag. Hva var anledningen?',
+        q2: 'Hyttetur = fjell, så da lurer jeg på: Hva heter fjellområdet der (Stor)sølnkletten og Breisjøsæter ligger?',
+        q3: 'Hva heter «fjellovergangen» mellom Jøldalshytta og Trollheimshytta som vi har gått på føttene? '
     },
     { // 19
-        q1: 'Friken var mye på tur vår/sommer 2017. Nevn tre staller/steder han var da',
-        q2: 'Nevn tre staller/rideskoler der Ingeborg har ridd eller hatt hest',
-        q3: 'Hva het hun som Ingeborg kjøpte Friken fra?'
+        q1: 'Anne, Billie og Demi på tur – Ingrid var også med. Men hvor er dette?',
+        q2: 'Både Magnus og Johan hadde fødselsdag i oktober. Husker dere datoene?',
+        q3: 'Hva er Oktoberfestivalen?'
     },
     { // 20
-        q1: 'Sannelig er Anne på enda en fotballtur - hvor er dette?',
-        q2: 'Hvilket lag er hun med her? ',
-        q3: 'Hvem ble seriemester i fotball for damer i 2021?'
+        q1: 'Ingeborg var på BET, Blakstad, i 4 uker. Hva betyr BET?',
+        q2: 'I hvilken kommune ligger Blakstad?',
+        q3: 'Det bor en berømt norsk familie i denne kommunen, hvem er det?'
     },
     { // 21
-        q1: 'Så er Ingeborg på Øvrevoll igjen. Men når var det?',
-        q2: 'I hvilken kommune ligger Øvrevoll?',
-        q3: 'og i hvilket fylke?'
+        q1: 'Atle og Ingrid var i Bergen noen dager først på november. Der møtte de Joar, Jeanette og Oskar. Hvor er dette bildet fra?',
+        q2: 'I hvilket fylke ligger Bergen?',
+        q3: 'Hvor mange fjell ligger rundt Bergen?'
     },
     { // 22
-        q1: 'Her feirer vi også et jubileum, men hvilket?',
-        q2: 'Når vi snakker om jubileum - når feiret Trondheim 1000 årsjubileet sitt?',
-        q3: 'Hvem står på sokkel på torget i Trondheim?'
+        q1: 'Vi arrangerte den tradisjonelle høstfesten ved Børsjøen 19. november. Hvem deltar der?',
+        q2: 'Norge vant nok en gang EM i handball. Hvem ble kåret til turneringens mest verdifulle spiller?',
+        q3: 'VM i fotball arrangeres også nå – i Qatar. Hvilke lag spilte åpningskampen?'
     },
     { // 23
-        q1: 'UKM - både Ingeborg og Anne har deltatt. Her spiller Anne i band, men hvilket instrument spiller hun?',
-        q2: 'Anne deltok også noen år senere, men da alene. Hvilken låt deltok hun med da?',
-        q3: 'Hva deltok Ingeborg med?'
+        q1: 'Av naturlige årsaker har jeg ingen bilder fra desember 2022, så da må vi gå tilbake til i fjor. Da var det fine skøyteforhold, og dere var på flere fine turer. Hvor er dette bildet tatt?',
+        q2: 'Da jeg vokste opp og fram til OL på Lillehammer, fulgte vi med på skøyter. Sånn er det ikke i dag. Kan dere navnet på tre skøyteløpere, aktive i dag, tidligere aktive, levende eller døde?',
+        q3: 'Hva heter ishallen på Hamar med det spesielle utseendet som ble bygget til OL i 1994?'
     },
     { // 24
-        q1: 'Julestemning - Atle og Ingrid var i London og opplevde at julegrana ble tent. Hvor står den og hva er spesielt med den for en nordmann?',
-        q2: 'Vi var også i London på en norsk festdag for noen år siden - hvilken?',
-        q3: 'Da var det samtidig en britisk festdag - hvilken?'
-    },   
+        q1: 'Kald fottur i nærområdet 1. juledag i fjor. Hvor er bildet tatt?',
+        q2: 'Da jeg gikk på skolen, måtte vi pugge julesanger. Det slapp dere. Men i barnekirkekoret lærte dere (og jeg) nye julesanger, bl.a. «En krybbe var....». Husker dere første verset?',
+        q3: 'Nyttårsfeiringa ved årsskiftet 1999/2000 var vi med på et spesielt arrangement (med koret). Hvor var vi?'
+    },
 ];
