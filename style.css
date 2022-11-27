@@ -46,3 +46,7 @@ ol {
 .qtext {
     font-size: min(5vw, 50px);
 }
+
+#answer {
+    font-size: min(8vw, 80px);
+}
