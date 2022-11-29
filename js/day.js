@@ -33,7 +33,7 @@ function getQueryVariable(variable) {
 
 var content = [
     { // 1
-        q1: 'I år blir det spørsmål knyttet til bilder fra 2022 – to per måned. Her er Atle og de unge Byåsendamene på kveldsskitur i januar. Hvor gikk turen?',
+        q1: 'I år blir det spørsmål knyttet til bilder fra 2022 - to per måned. Her er Atle og de unge Byåsendamene på kveldsskitur i januar. Hvor gikk turen?',
         q2: 'Nevn tre topper i Bymarka med «heia» i navnet.',
         q3: 'Hva heter vannet ved Grønlia?'
     },
@@ -50,7 +50,7 @@ var content = [
     { // 4
         q1: 'Demi og Ingrid på tur i snøen i februar. Hvor er bildet tatt?',
         q2: '9. februar var en stor dag. Hva skjedde da?',
-        q3: 'OL ble arrangert i februar – hvor?'
+        q3: 'OL ble arrangert i februar - hvor?'
     },
     { // 5
         q1: 'I mars fikk Ingeborg endelig ri på Friken igjen. Hva er Frikens fulle navn?',
@@ -58,12 +58,12 @@ var content = [
         q3: 'Ei av døtrene til Märtha Louise driver med sprang på ganske høyt nivå. Hvem?'
     },
     { // 6
-        q1: 'I mars var Atle, Demi og Ingrid ei helg på Bjørneggen. a) I hvilken kommune ligger Bjørneggen?',
+        q1: 'I mars var Atle, Demi og Ingrid ei helg på Bjørneggen. I hvilken kommune ligger Bjørneggen?',
         q2: 'Nevn tre TT-hytter i Sylan.',
         q3: 'Hva heter det høyeste fjellet i Sylan?'
     },
     { // 7
-        q1: 'Damene i påskesol utenfor hytta. a) Standardspørsmål: Når er 1. påskedag? «Første søndag........» ',
+        q1: 'Damene i påskesol utenfor hytta. Standardspørsmål: Når er 1. påskedag? «Første søndag........» ',
         q2: 'Som kjent ligger hytta vår ved Børsjøen. Men det er flere vann i området rundt. Nevn tre.',
         q3: 'Hva heter det høyeste fjellet i Selbu?'
     },
@@ -83,14 +83,14 @@ var content = [
         q3: 'Norges største isbre ligger bl.a. i Luster kommune. Hva heter den? '
     },
     { // 11
-        q1: 'Billie er på besøk i Smiskaret for første gang – trur eg:) Hva er spesielt med pelsen til en puddel i forhold til f.eks. Demi og Fia?',
+        q1: 'Billie er på besøk i Smiskaret for første gang - trur eg:) Hva er spesielt med pelsen til en puddel i forhold til f.eks. Demi og Fia?',
         q2: 'Hva heter hunden til Obelix?',
         q3: 'Enn hunden til Pondus?'
     },
     { // 12
         q1: 'Dårlig med passende bilder i juni, så da blir det et av Friken som hadde bursdag i mai. Hvor gammel ble han?',
         q2: 'Hva het hesten til Odin?',
-        q3: 'Og hva var spesielt med han? ?'
+        q3: 'Og hva var spesielt med han?'
     },
     { // 13
         q1: 'Børsjøen i juli, regn og surt, men tur ble det likevel. Hvor er bildet tatt?',
@@ -123,7 +123,7 @@ var content = [
         q3: 'Hva heter «fjellovergangen» mellom Jøldalshytta og Trollheimshytta som vi har gått på føttene? '
     },
     { // 19
-        q1: 'Anne, Billie og Demi på tur – Ingrid var også med. Men hvor er dette?',
+        q1: 'Anne, Billie og Demi på tur - Ingrid var også med. Men hvor er dette?',
         q2: 'Både Magnus og Johan hadde fødselsdag i oktober. Husker dere datoene?',
         q3: 'Hva er Oktoberfestivalen?'
     },
@@ -140,7 +140,7 @@ var content = [
     { // 22
         q1: 'Vi arrangerte den tradisjonelle høstfesten ved Børsjøen 19. november. Hvem deltar der?',
         q2: 'Norge vant nok en gang EM i handball. Hvem ble kåret til turneringens mest verdifulle spiller?',
-        q3: 'VM i fotball arrangeres også nå – i Qatar. Hvilke lag spilte åpningskampen?'
+        q3: 'VM i fotball arrangeres også nå - i Qatar. Hva heter hovedstaden i Qatar?'
     },
     { // 23
         q1: 'Av naturlige årsaker har jeg ingen bilder fra desember 2022, så da må vi gå tilbake til i fjor. Da var det fine skøyteforhold, og dere var på flere fine turer. Hvor er dette bildet tatt?',
